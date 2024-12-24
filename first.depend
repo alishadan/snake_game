@@ -1,0 +1,424 @@
+# depslib dependency file v1.0
+1734964511 source:c:\users\shadan\desktop\working\first\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	"arrow_function.h"
+	"screen/screen.h"
+	"snake/snake.h"
+	"food/food.h"
+	"game/game.h"
+	"scorce/score.h"
+	"save_mouse/save_mouse.h"
+	"save_mouse/save_text/save_text.h"
+	<vector>
+	"global/global.h"
+	<thread>
+	"menu/start_menu/start_menu.h"
+	"menu/menu_mouse_position/menu_mouseP.h"
+	"menu/start_menu/draw_start_menu/deaw_start_menu.h"
+	"menu/start_menu/mouse_click/mouse_click.h"
+	"file/loadFile/loadFile.h"
+
+1732430130 source:c:\users\shadan\desktop\working\first\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1732829338 c:\users\shadan\desktop\working\first\inputarrow.cpp
+	<windows.h>
+	<stdio.h>
+
+1734451045 source:c:\users\shadan\desktop\working\first\inputarrow.cpp
+	<windows.h>
+	<stdio.h>
+	"arrow_function.h"
+	"global/global.h"
+
+1732832918 c:\users\shadan\desktop\working\first\functions.h
+
+1734444309 c:\users\shadan\desktop\working\first\arrow_function.h
+	<windows.h>
+
+1734964496 source:c:\users\shadan\desktop\working\first\screen\screen.cpp
+	"screen.h"
+	"../global/global.h"
+	"../menu/end_menu/draw_end_menu/draw_end_menu.h"
+
+1733760083 source:c:\users\shadan\desktop\working\first\snake\snake.cpp
+	"snake.h"
+	"../global/global.h"
+	"../clear_screen/clear.h"
+
+1733594725 c:\users\shadan\desktop\working\first\screen\screen.h
+	<windows.h>
+	<iostream>
+
+1733430169 c:\users\shadan\desktop\working\first\snake\snake.h
+	<windows.h>
+	<iostream>
+	<vector>
+
+1733502428 c:\users\shadan\desktop\working\first\game\game.h
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	"../screen/screen.h"
+	"../snake/snake.h"
+	"../arrow_function.h"
+	"../food/food.h"
+	"../scorce/score.h"
+	"../player/player.h"
+
+1734964235 source:c:\users\shadan\desktop\working\first\game\game.cpp
+	"game.h"
+	"../arrow_function.h"
+	<windows.h>
+	"jahat/jahat.h"
+	"harkat/harkat.h"
+	"khord/khord.h"
+	"../save_mouse/save_text/save_text.h"
+	"../save_mouse/save_mouse.h"
+	"../clear_screen/clear.h"
+	"../global/global.h"
+	"../menu/end_menu/end_menu.h"
+
+1734874518 c:\users\shadan\desktop\working\first\global\global.h
+	<windows.h>
+	<thread>
+
+1734874538 source:c:\users\shadan\desktop\working\first\global\global.cpp
+	"global.h"
+
+1734274513 source:c:\users\shadan\desktop\working\first\food\food.cpp
+	"food.h"
+	"../global/global.h"
+
+1733489169 c:\users\shadan\desktop\working\first\food\food.h
+	<windows.h>
+	<iostream>
+	"random_number/random.h"
+
+1733331978 c:\users\shadan\desktop\working\first\food\random_number\random.h
+
+1733490252 source:c:\users\shadan\desktop\working\first\food\random_number\random.cpp
+	<iostream>
+	<random>
+	"random.h"
+	"../../screen/screen.h"
+
+1733490859 source:c:\users\shadan\desktop\working\first\game\khord\khor.cpp
+	"khord.h"
+
+1733495839 c:\users\shadan\desktop\working\first\game\khord\khord.h
+	"../../snake/snake.h"
+	"../../food/food.h"
+	"../../scorce/score.h"
+
+1733490591 source:c:\users\shadan\desktop\working\first\game\harkat\harkat.cpp
+	"harkat.h"
+
+1733486735 c:\users\shadan\desktop\working\first\game\harkat\harkat.h
+	"../../arrow_function.h"
+	"../../food/food.h"
+	"../../screen/screen.h"
+	"../../snake/snake.h"
+
+1733864162 source:c:\users\shadan\desktop\working\first\game\jahat\jaht.cpp
+	"jahat.h"
+
+1733486764 c:\users\shadan\desktop\working\first\game\jahat\jahat.h
+	"../../arrow_function.h"
+
+1733495899 source:c:\users\shadan\desktop\working\first\game\khord\khord.cpp
+	"khord.h"
+
+1733495431 c:\users\shadan\desktop\working\first\scorce\score.h
+	<windows.h>
+
+1733760087 source:c:\users\shadan\desktop\working\first\scorce\score.cpp
+	"score.h"
+	<windows.h>
+	<iostream>
+	"../global/global.h"
+
+1734799002 source:c:\users\shadan\desktop\working\first\player\player.cpp
+	"player.h"
+
+1734649572 c:\users\shadan\desktop\working\first\player\player.h
+	<string>
+	<iostream>
+	<windows.h>
+	"../global/global.h"
+
+1733759011 source:c:\users\shadan\desktop\working\first\savefile\savefile.cpp
+	"savefile.h"
+
+1733527449 c:\users\shadan\desktop\working\first\savefile\savefile.h
+	<iostream>
+	<fstream>
+	"../player/player.h"
+	"../scorce/score.h"
+
+1733760087 source:c:\users\shadan\desktop\working\first\save_mouse\save_text\save_text.cpp
+	"save_text.h"
+	<iostream>
+	"../../global/global.h"
+
+1733773823 c:\users\shadan\desktop\working\first\save_mouse\save_text\save_text.h
+	<windows.h>
+
+1733589167 source:c:\users\shadan\desktop\working\first\save_mouse\cave_mouse.cpp
+	"save_mouse.h"
+	<windows.h>
+	<stdio.h>
+	"../global/global.h"
+
+1733757443 c:\users\shadan\desktop\working\first\save_mouse\save_mouse.h
+	"../scorce/score.h"
+	"../player/player.h"
+
+1733881948 source:c:\users\shadan\desktop\working\first\save_mouse\save_mouse.cpp
+	"save_mouse.h"
+	<windows.h>
+	<stdio.h>
+	"../global/global.h"
+	"detect_mouse/detect_mouse.h"
+	"../file/SaveFile/savefile.h"
+
+1733666591 source:c:\users\shadan\desktop\working\first\clear_screen\clear.cpp
+	"clear.h"
+	"../global/global.h"
+	<windows.h>
+	<iostream>
+
+1733665327 c:\users\shadan\desktop\working\first\clear_screen\clear.h
+	<windows.h>
+
+1733773627 source:c:\users\shadan\desktop\working\first\menu\mouse_position\mousep.cpp
+	"mouseP.h"
+	"../../global/global.h"
+
+1733773625 c:\users\shadan\desktop\working\first\menu\mouse_position\mousep.h
+
+1733846273 source:c:\users\shadan\desktop\working\first\menu\menu.cpp
+	"menu.h"
+	"../global/global.h"
+
+1733881498 c:\users\shadan\desktop\working\first\menu\menu.h
+
+1733783076 source:c:\users\shadan\desktop\working\first\menu\start menu\menu.cpp
+	"start_menu.h"
+	"../../global/global.h"
+	<iostream>
+
+1733764039 c:\users\shadan\desktop\working\first\menu\start menu\menu.h
+
+1733764039 c:\users\shadan\desktop\working\first\menu\start menu\start_menu.h
+
+1733783098 source:c:\users\shadan\desktop\working\first\menu\start menu\start_menu.cpp
+	"start_menu.h"
+	"../../global/global.h"
+	<iostream>
+
+1734711662 source:c:\users\shadan\desktop\working\first\menu\midle_menu\midle_menu.cpp
+	"midle_menu.h"
+	"../menu.h"
+	"../../global/global.h"
+	<iostream>
+
+1734965677 source:c:\users\shadan\desktop\working\first\menu\start_menu\start_menu.cpp
+	"start_menu.h"
+	"../menu_mouse_position/menu_mouseP.h"
+	"../../global/global.h"
+	<iostream>
+	"../menu.h"
+	"../../game/new_game/new_game.h"
+	"../../arrow_function.h"
+	"../../game/jahat/jahat.h"
+	"start_menu.h"
+	"mouse_click/mouse_click.h"
+	"../../game/continue_game/continue_game.h"
+	"../../game/about/about.h"
+	"../../game/exit/exit.h"
+	"../../game/records/records.h"
+	"../end_menu/end_menu.h"
+	"draw_start_menu/deaw_start_menu.h"
+
+1734450327 c:\users\shadan\desktop\working\first\menu\start_menu\start_menu.h
+	"../../arrow_function.h"
+	<windows.h>
+
+1733885385 source:c:\users\shadan\desktop\working\first\menu\menu_mouse_position\menu_mousep.cpp
+	"menu_mouseP.h"
+	"../../global/global.h"
+	"../menu.h"
+
+1733881734 c:\users\shadan\desktop\working\first\menu\menu_mouse_position\menu_mousep.h
+	<windows.h>
+	"../menu.h"
+
+1734814615 source:c:\users\shadan\desktop\working\first\file\loadfile\loadfile.cpp
+	"loadFile.h"
+	<fstream>
+	<iostream>
+	<istream>
+	"../../player/player.h"
+	"../../scorce/score.h"
+
+1733847894 source:c:\users\shadan\desktop\working\first\game\start_game\start_game.cpp
+	"start_game.h"
+	"../../player/player.h"
+	"../../arrow_function.h"
+	"../../food/food.h"
+	"../../game/game.h"
+	"../../scorce/score.h"
+	"../../save_mouse/save_text/save_text.h"
+	"../../screen/screen.h"
+	"../../snake/snake.h"
+
+1733845258 c:\users\shadan\desktop\working\first\game\start_game\start_game.h
+
+1734798759 source:c:\users\shadan\desktop\working\first\file\savefile\savefile.cpp
+	"savefile.h"
+
+1733848006 c:\users\shadan\desktop\working\first\file\savefile\savefile.h
+	<iostream>
+	<fstream>
+	"../../player/player.h"
+	"../../scorce/score.h"
+
+1734711531 c:\users\shadan\desktop\working\first\menu\midle_menu\midle_menu.h
+
+1734444739 source:c:\users\shadan\desktop\working\first\game\new_game\new_game.cpp
+	"new_game.h"
+	"../../arrow_function.h"
+	"../../food/food.h"
+	"../../global/global.h"
+	"../../player/player.h"
+	"../../scorce/score.h"
+	"../../screen/screen.h"
+	"../../snake/snake.h"
+	"../../save_mouse/save_text/save_text.h"
+	"../game.h"
+
+1733881242 c:\users\shadan\desktop\working\first\game\new_game\new_game.h
+
+1733856613 c:\users\shadan\desktop\working\first\save_mouse\detect_mouse\detect_mouse.h
+
+1734448769 c:\users\shadan\desktop\working\first\menu\start_menu\draw_start_menu\deaw_start_menu.h
+
+1734449576 source:c:\users\shadan\desktop\working\first\menu\start_menu\run_start_menu\run_start_menu.cpp
+	"run_start_menu.h"
+
+1734448438 c:\users\shadan\desktop\working\first\menu\start_menu\run_start_menu\run_start_menu.h
+
+1734715669 source:c:\users\shadan\desktop\working\first\menu\start_menu\draw_start_menu\deaw_start_menu.cpp
+	"deaw_start_menu.h"
+	<iostream>
+	<windows.h>
+	"../../../global/global.h"
+	"../../end_menu/draw_end_menu/draw_end_menu.h"
+
+1734796791 source:c:\users\shadan\desktop\working\first\menu\start_menu\mouse_click\mouse_click.cpp
+	"mouse_click.h"
+	<windows.h>
+	"../../../global/global.h"
+	"../../../game/new_game/new_game.h"
+
+1734468811 c:\users\shadan\desktop\working\first\menu\start_menu\mouse_click\mouse_click.h
+
+1734647551 c:\users\shadan\desktop\working\first\file\loadfile\loadfile.h
+	<windows.h>
+	"../../player/player.h"
+	"../../scorce/score.h"
+
+1734534454 source:c:\users\shadan\desktop\working\first\game\exit\exit.cpp
+	"exit.h"
+	<stdlib.h>
+
+1734471638 c:\users\shadan\desktop\working\first\game\exit\exit.h
+
+1734965936 source:c:\users\shadan\desktop\working\first\game\records\records.cpp
+	"records.h"
+	<fstream>
+	<iostream>
+	<string>
+	"../../menu/end_menu/draw_end_menu/draw_end_menu.h"
+	"../../menu/end_menu/end_menu.h"
+	"../../scorce/score.h"
+	"../../player/player.h"
+	"../../menu/end_menu/end_menu.h"
+
+1734710126 c:\users\shadan\desktop\working\first\game\records\records.h
+
+1734965963 source:c:\users\shadan\desktop\working\first\game\about\about.cpp
+	"about.h"
+	<iostream>
+	"../../scorce/score.h"
+	"../../player/player.h"
+	"../../menu/end_menu/end_menu.h"
+	"../../menu/end_menu/draw_end_menu/draw_end_menu.h"
+
+1734534518 c:\users\shadan\desktop\working\first\game\about\about.h
+
+1734649973 source:c:\users\shadan\desktop\working\first\game\continue_game\continue_game.cpp
+	"continue_game.h"
+	"windows.h"
+	"../../file/loadFile/loadFile.h"
+	"../../screen/screen.h"
+	"../../snake/snake.h"
+	"../../food/food.h"
+	"../../arrow_function.h"
+	"../game.h"
+
+1734470546 c:\users\shadan\desktop\working\first\game\continue_game\continue_game.h
+
+1734792699 source:c:\users\shadan\desktop\working\first\menu\end_menu\draw_end_menu\draw_end_menu.cpp
+	"draw_end_menu.h"
+	<windows.h>
+	<iostream>
+	<windows.h>
+	"../../../global/global.h"
+
+1734534510 c:\users\shadan\desktop\working\first\menu\end_menu\draw_end_menu\draw_end_menu.h
+
+1734964394 source:c:\users\shadan\desktop\working\first\menu\end_menu\end_menu.cpp
+	"end_menu.h"
+	"draw_end_menu/draw_end_menu.h"
+	"../../save_mouse/save_mouse.h"
+	<windows.h>
+	<stdio.h>
+	"../../global/global.h"
+	"../../file/SaveFile/savefile.h"
+	<stdlib.h>
+	"../../game/new_game/new_game.h"
+	"../../player/player.h"
+	"../../scorce/score.h"
+	"../../game/about/about.h"
+	"../../game/exit/exit.h"
+	"../../game/records/records.h"
+
+1734964196 c:\users\shadan\desktop\working\first\menu\end_menu\end_menu.h
+	"../../scorce/score.h"
+	"../../player/player.h"
+
+1734542521 source:c:\users\shadan\desktop\working\first\icon.rc
+
+1734711669 source:c:\users\shadan\desktop\working\first\menu\back_menu\back_menu.cpp
+	"back_menu.h"
+
+1734711667 c:\users\shadan\desktop\working\first\menu\back_menu\back_menu.h
+
+1734715473 source:c:\users\shadan\desktop\working\first\menu\midle_menu\draw_midle_menu\draw_midle_menu.cpp
+	"draw_midle_menu.h"
+	<iostream>
+
+1734711743 c:\users\shadan\desktop\working\first\menu\midle_menu\draw_midle_menu\draw_midle_menu.h
+

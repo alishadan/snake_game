@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="first" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/first" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/first" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="arrow_function.h" />
+		<Unit filename="clear_screen/clear.cpp" />
+		<Unit filename="clear_screen/clear.h" />
+		<Unit filename="file/SaveFile/savefile.cpp" />
+		<Unit filename="file/SaveFile/savefile.h" />
+		<Unit filename="file/loadFile/loadFile.cpp" />
+		<Unit filename="file/loadFile/loadFile.h" />
+		<Unit filename="food/food.cpp" />
+		<Unit filename="food/food.h" />
+		<Unit filename="food/random_number/random.cpp" />
+		<Unit filename="food/random_number/random.h" />
+		<Unit filename="game/about/about.cpp" />
+		<Unit filename="game/about/about.h" />
+		<Unit filename="game/continue_game/continue_game.cpp" />
+		<Unit filename="game/continue_game/continue_game.h" />
+		<Unit filename="game/exit/exit.cpp" />
+		<Unit filename="game/exit/exit.h" />
+		<Unit filename="game/game.cpp" />
+		<Unit filename="game/game.h" />
+		<Unit filename="game/harkat/harkat.cpp" />
+		<Unit filename="game/harkat/harkat.h" />
+		<Unit filename="game/jahat/jahat.h" />
+		<Unit filename="game/jahat/jaht.cpp" />
+		<Unit filename="game/khord/khord.cpp" />
+		<Unit filename="game/khord/khord.h" />
+		<Unit filename="game/new_game/new_game.cpp" />
+		<Unit filename="game/new_game/new_game.h" />
+		<Unit filename="game/records/records.cpp" />
+		<Unit filename="game/records/records.h" />
+		<Unit filename="game/start_game/start_game.cpp" />
+		<Unit filename="game/start_game/start_game.h" />
+		<Unit filename="global/global.cpp" />
+		<Unit filename="global/global.h" />
+		<Unit filename="icon.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="inputarrow.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu/back_menu/back_menu.cpp" />
+		<Unit filename="menu/back_menu/back_menu.h" />
+		<Unit filename="menu/end_menu/draw_end_menu/draw_end_menu.cpp" />
+		<Unit filename="menu/end_menu/draw_end_menu/draw_end_menu.h" />
+		<Unit filename="menu/end_menu/end_menu.cpp" />
+		<Unit filename="menu/end_menu/end_menu.h" />
+		<Unit filename="menu/menu.cpp" />
+		<Unit filename="menu/menu.h" />
+		<Unit filename="menu/menu_mouse_position/menu_mouseP.cpp" />
+		<Unit filename="menu/menu_mouse_position/menu_mouseP.h" />
+		<Unit filename="menu/midle_menu/draw_midle_menu/draw_midle_menu.cpp" />
+		<Unit filename="menu/midle_menu/draw_midle_menu/draw_midle_menu.h" />
+		<Unit filename="menu/midle_menu/midle_menu.cpp" />
+		<Unit filename="menu/midle_menu/midle_menu.h" />
+		<Unit filename="menu/start_menu/draw_start_menu/deaw_start_menu.cpp" />
+		<Unit filename="menu/start_menu/draw_start_menu/deaw_start_menu.h" />
+		<Unit filename="menu/start_menu/mouse_click/mouse_click.cpp" />
+		<Unit filename="menu/start_menu/mouse_click/mouse_click.h" />
+		<Unit filename="menu/start_menu/run_start_menu/run_start_menu.cpp" />
+		<Unit filename="menu/start_menu/run_start_menu/run_start_menu.h" />
+		<Unit filename="menu/start_menu/start_menu.cpp" />
+		<Unit filename="menu/start_menu/start_menu.h" />
+		<Unit filename="player/player.cpp" />
+		<Unit filename="player/player.h" />
+		<Unit filename="readme.txt">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="save_mouse/save_mouse.cpp" />
+		<Unit filename="save_mouse/save_mouse.h" />
+		<Unit filename="save_mouse/save_text/save_text.cpp" />
+		<Unit filename="save_mouse/save_text/save_text.h" />
+		<Unit filename="scorce/score.cpp" />
+		<Unit filename="scorce/score.h" />
+		<Unit filename="screen/screen.cpp" />
+		<Unit filename="screen/screen.h" />
+		<Unit filename="snake/snake.cpp" />
+		<Unit filename="snake/snake.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
